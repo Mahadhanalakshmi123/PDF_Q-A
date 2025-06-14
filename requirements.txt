@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+requests
+sentence-transformers
+faiss-cpu
+pypdf
+easyocr
+pdf2image
