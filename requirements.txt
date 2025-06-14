@@ -2,8 +2,7 @@ streamlit
 fastapi
 uvicorn
 requests
+pypdf
 sentence-transformers
 faiss-cpu
-pypdf
-easyocr
-pdf2image
+python-dotenv
