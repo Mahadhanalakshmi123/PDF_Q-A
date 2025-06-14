@@ -33,4 +33,5 @@ async def ask(q: str):
         answer = answer_with_context(q, contexts)
         return {"answer": answer}
     except Exception as e:
-        return {"error": str(e)}"
+        return {"error": str(e)}
+
